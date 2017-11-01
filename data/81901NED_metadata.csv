@@ -1,0 +1,146 @@
+"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Beloningsverschillen tussen mannen en vrouwen; kenmerken baan, werknemer";"Beloningsverschil man-vrouw; kenmerken";"81901NED";"Beloningsverschillen tussen mannen en vrouwen naar kenmerken van de baan,
+het bedrijf of de werknemer";"2017-01-12T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"2008-2014";"
+Deze tabel geeft de beloningsverschillen voor het gemiddelde uurloon tussen vrouwelijke en mannelijke werknemers in Nederland. De verschillen worden voor een aantal kenmerken van de baan, het bedrijf en de werknemer weergegeven.
+
+Gegevens beschikbaar vanaf 2008.
+
+Status van de cijfers: 
+Alle cijfers in deze tabel zijn definitief.
+
+Wijzigingen per 12 januari 2017.
+De cijfers van 2015 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het vierde kwartaal van 2017 worden definitieve cijfers over 2016 toegevoegd.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel geeft de beloningsverschillen voor het gemiddelde uurloon tussen vrouwelijke en mannelijke werknemers in Nederland. De verschillen worden voor een aantal kenmerken van de baan, het bedrijf en de werknemer weergegeven.
+
+Gegevens beschikbaar vanaf 2008.
+
+Status van de cijfers: 
+Alle cijfers in deze tabel zijn definitief.
+
+Wijzigingen per 12 januari 2017.
+De cijfers van 2015 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het vierde kwartaal van 2017 worden definitieve cijfers over 2016 toegevoegd.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Baan
+Een expliciete of impliciete arbeidsovereenkomst tussen een persoon en een economische eenheid waarin is vastgelegd dat arbeid zal worden verricht waartegen een (financiële) beloning staat.
+
+Beloningsverschil tussen mannen en vrouwen
+Gemiddeld uurloon van vrouwen in procenten van het gemiddeld uurloon van mannen.
+
+Leeftijd
+Voor de jaarcijfers wordt gebruik gemaakt van de leeftijd aan het eind van elke onderliggende maand, dat is het aantal gehele jaren dat op de laatste dag van de maand is verstreken sinds de geboortedatum van een persoon. Een persoon kan per verslagjaar aan twee leeftijdsklassen bijdragen.
+
+Werknemer
+Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevant tabel:
+De belangrijkste kerncijfers over werkgelegenheid (banen en arbeidsvolume), beloning en arbeidsduur in Nederland kunt u vinden in tabel <a href='http://statline.cbs.nl/StatWeb/publication/?W=T&DM=SLNL&PA=81431ned&D1=a&D2=a&D3=0&D4=l&HD=121211-1045&HDR=T&STB=G1,G2,G3'>Werkgelegenheid; banen, lonen, arbeidsduur, SBI2008; kerncijfers</a>.
+
+Meer informatie is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/arbeid-en-inkomen/arbeid-en-sociale-zekerheid'>Arbeid en sociale zekerheid</a>.
+
+4. BRONNEN EN METHODEN
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/statistiek-werkgelegenheid-en-lonen--swl---lonen-en-arbeidsduur'>Statistiek Werkgelegenheid en Lonen (SWL), lonen en arbeidsduur</a>.
+
+De gegevens in de tabel zijn vanaf 2008 afkomstig uit het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.
+";"graphType=table";"$filter=((KenmerkenBaanWerknemer eq '10000') or (KenmerkenBaanWerknemer eq '10100') or (KenmerkenBaanWerknemer eq '10110') or (KenmerkenBaanWerknemer eq '10120') or (KenmerkenBaanWerknemer eq '10130') or (KenmerkenBaanWerknemer eq '10140') or (KenmerkenBaanWerknemer eq '10150') or (KenmerkenBaanWerknemer eq '10650') or (KenmerkenBaanWerknemer eq '10660') or (KenmerkenBaanWerknemer eq '10670') or (KenmerkenBaanWerknemer eq '10600') or (KenmerkenBaanWerknemer eq '10610') or (KenmerkenBaanWerknemer eq '10620') or (KenmerkenBaanWerknemer eq '10680') or (KenmerkenBaanWerknemer eq '10690') or (KenmerkenBaanWerknemer eq '10700') or (KenmerkenBaanWerknemer eq '10710') or (KenmerkenBaanWerknemer eq '10720') or (KenmerkenBaanWerknemer eq '10730') or (KenmerkenBaanWerknemer eq '10740') or (KenmerkenBaanWerknemer eq '10750') or (KenmerkenBaanWerknemer eq '10760') or (KenmerkenBaanWerknemer eq '10770') or (KenmerkenBaanWerknemer eq '10780') or (KenmerkenBaanWerknemer eq '10790') or (KenmerkenBaanWerknemer eq '10800')) and ((Perioden eq '2008JJ00') or (Perioden eq '2009JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2011JJ00') or (Perioden eq '2012JJ00') or (Perioden eq '2013JJ00') or (Perioden eq '2014JJ00') or (Perioden eq '2015JJ00'))&$select=KenmerkenBaanWerknemer, Perioden, BeloningsverschilTussenManEnVrouw_1&k=Topics,Perioden&r=KenmerkenBaanWerknemer";"Table,Bar,Line";"Regulier";"CBS.";"2017-01-12T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"KenmerkenBaanWerknemer";"Kenmerken baan / werknemer";"";;;;;
+"1";"1";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"2";"2";;"Topic";"BeloningsverschilTussenManEnVrouw_1";"Beloningsverschil tussen man en vrouw";"Gemiddeld uurloon van vrouwen als percentage van het gemiddeld uurloon van mannen.
+
+Gemiddeld uurloon
+Het tussen werkgever en werknemer overeengekomen bruto loon per verloond uur (exclusief overwerkuren en verlofuren in verband met vakantie, ADV en algemeen erkende feestdagen) gemiddeld in een jaar.
+
+Brutoloon
+Het loon voor aftrek van de loonheffing, de werknemerspremies voor pensioen en vut, het spaarloon en de premies voor werknemersverzekeringen.
+Exclusief bijzondere beloning en overwerkloon. 
+Inclusief de fiscale waarde van niet in geld uitgekeerde belaste vergoedingen.
+
+Werknemer
+Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat.
+";;"Float";"%";"1";"Missing"
+"KenmerkenBaanWerknemer"
+Key;Title;Description
+"10000";"Totaal";""
+"10100";"Arbeidsduur: minder dan 12 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is minder dan 12 uur."
+"10110";"Arbeidsduur: 12 tot 20 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is 12 tot 20 uur."
+"10120";"Arbeidsduur: 20 tot 25 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is 20 tot 25 uur."
+"10130";"Arbeidsduur: 25 tot 30 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is 25 tot 30 uur."
+"10140";"Arbeidsduur: 30 tot 35 uur per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is 30 tot 35 uur."
+"10150";"Arbeidsduur: 35 uur of meer per week";"Het aantal uren dat een persoon in een normale of gemiddelde werkweek werkt is meer dan 35 uur."
+"10600";"Cao-sector: gesubsidieerde instellingen";"Alle bedrijven en instellingen die actief zijn in Nederland zijn ingedeeld in een cao-sector. De indeling in cao-sectoren is gebaseerd op de positie van de werknemers bij de arbeidsvoorwaardenonderhandelingen.
+
+Cao-sector gesubsidieerde instellingen
+De cao-sector bestaande uit privaatrechtelijke bedrijven die door subsidie of via wettelijk vastgestelde bijdragen worden gefinancierd, voor zover zij niet tot de overheid behoren. Het gaat hierbij onder meer om het grootste deel van de gezondheids- en welzijnszorg, de uitvoeringsorganen voor de sociale verzekeringen en de sociale werkplaatsen.
+
+Collectieve arbeidsovereenkomst (cao)
+Een overeenkomst waarin afspraken worden vastgelegd die werkgevers-en werknemersorganisaties maken over de arbeidsvoorwaarden van werknemers in een bedrijf of bedrijfstak."
+"10610";"Cao-sector: overheid";"Cao-sector die alle publiekrechtelijke bedrijven omvat, zoals rijksoverheid, provincies, gemeenten, waterschappen en het openbaar onderwijs. Daarnaast behoren de politie, het regulier bijzonder onderwijs en de academische ziekenhuizen tot de overheid."
+"10620";"Cao-sector: particuliere bedrijven";"De Cao-sector bestaande uit privaatrechtelijke bedrijven die niet tot de sector gesubsidieerde instellingen of tot de Cao-sector overheid gerekend worden."
+"10650";"Bedrijfsgrootte:minder dan 10 werknemers";"Werknemer
+Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat."
+"10660";"Bedrijfsgrootte: 10 tot 100 werknemers";"Werknemer
+Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat."
+"10670";"Bedrijfsgrootte: 100 werknemers of meer";"Werknemer
+Een persoon die in een arbeidsovereenkomst afspraken met een economische eenheid maakt om arbeid te verrichten waartegenover een financiële beloning staat."
+"10680";"Leeftijd: jonger dan 15 jaar";""
+"10690";"Leeftijd: 15 tot 20 jaar";""
+"10700";"Leeftijd: 20 tot 25 jaar";""
+"10710";"Leeftijd: 25 tot 30 jaar";""
+"10720";"Leeftijd: 30 tot 35 jaar";""
+"10730";"Leeftijd: 35 tot 40 jaar";""
+"10740";"Leeftijd: 40 tot 45 jaar";""
+"10750";"Leeftijd: 45 tot 50 jaar";""
+"10760";"Leeftijd: 50 tot 55 jaar";""
+"10770";"Leeftijd: 55 tot 60 jaar";""
+"10780";"Leeftijd: 60 tot 65 jaar";""
+"10790";"Leeftijd: 65 tot 75 jaar";""
+"10800";"Leeftijd: 75 jaar of ouder";""
+"Perioden"
+Key;Title;Description;Status
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";;"Definitief"
+"2013JJ00";"2013";;"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
